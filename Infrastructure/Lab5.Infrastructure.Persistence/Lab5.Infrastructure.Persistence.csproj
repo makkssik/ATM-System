@@ -1,0 +1,8 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+    <ItemGroup>
+      <ProjectReference Include="../../Application/Lab5.Applications.Abstractions/Lab5.Applications.Abstractions.csproj" />
+      <ProjectReference Include="../../Domain/Lab5.Domain/Lab5.Domain.csproj" />
+      <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" />
+    </ItemGroup>
+
+</Project>
